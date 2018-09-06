@@ -1,0 +1,10 @@
+C:\Users\efortes\source\repos\VerticalNavigationBar_2\VerticalNavigationBar_2\bin\Debug\VerticalNavigationBar_2.exe.config
+C:\Users\efortes\source\repos\VerticalNavigationBar_2\VerticalNavigationBar_2\bin\Debug\VerticalNavigationBar_2.exe
+C:\Users\efortes\source\repos\VerticalNavigationBar_2\VerticalNavigationBar_2\bin\Debug\VerticalNavigationBar_2.pdb
+C:\Users\efortes\source\repos\VerticalNavigationBar_2\VerticalNavigationBar_2\obj\Debug\VerticalNavigationBar_2.csprojAssemblyReference.cache
+C:\Users\efortes\source\repos\VerticalNavigationBar_2\VerticalNavigationBar_2\obj\Debug\VerticalNavigationBar_2.Form1.resources
+C:\Users\efortes\source\repos\VerticalNavigationBar_2\VerticalNavigationBar_2\obj\Debug\VerticalNavigationBar_2.Properties.Resources.resources
+C:\Users\efortes\source\repos\VerticalNavigationBar_2\VerticalNavigationBar_2\obj\Debug\VerticalNavigationBar_2.csproj.GenerateResource.cache
+C:\Users\efortes\source\repos\VerticalNavigationBar_2\VerticalNavigationBar_2\obj\Debug\VerticalNavigationBar_2.csproj.CoreCompileInputs.cache
+C:\Users\efortes\source\repos\VerticalNavigationBar_2\VerticalNavigationBar_2\obj\Debug\VerticalNavigationBar_2.exe
+C:\Users\efortes\source\repos\VerticalNavigationBar_2\VerticalNavigationBar_2\obj\Debug\VerticalNavigationBar_2.pdb
